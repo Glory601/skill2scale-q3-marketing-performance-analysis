@@ -4,7 +4,8 @@
 
 This project was completed as part of the **Skill2Scale Data Analytics Virtual Internship**, where I worked as a Data Analyst for a simulated client, **Tech Savvy Solutions**.
 
-The objective was to transform raw Q3 marketing campaign data into actionable business insights through data cleaning, KPI analysis, dashboard development, forecasting, and strategic recommendations that support informed business decisions.
+The objective was to transform raw Q3 marketing campaign data into actionable business insights through data cleaning, KPI analysis, dashboard development, forecasting, and strategic recommendations that support informed business decisions. The project covers the complete analytics workflow—from data cleaning and KPI calculation to dashboard development, forecasting, and business reporting.
+
 
 ---
 
@@ -80,7 +81,7 @@ Prepared:
 
 - Microsoft Excel
 - SQL
-- Power BI *(Coming Soon)*
+- Power BI 
 - GitHub
 
 ### Skills
@@ -98,61 +99,55 @@ Prepared:
 
 ## Key Performance Indicators (KPIs)
 
-- Total Revenue
-- Total Ad Spend
-- Return on Investment (ROI)
-- Click-Through Rate (CTR)
-- Cost per Lead (CPL)
-- Conversion Rate
-- Month-over-Month Revenue Growth
-
----
-
+## Dashboard Preview
 ## Key Insights
 
-- Referral Programme achieved the highest ROI among all campaigns.
-- Paid Ads generated the highest overall revenue.
-- July recorded the strongest monthly revenue performance.
-- Advertising spend showed a weak positive relationship with leads generated.
-- Q4 revenue projections suggest continued revenue decline if current trends persist.
+- July generated the highest revenue (₦34.44 million), with performance declining in August and September.
+- Advertising spend showed a weak positive correlation with leads (r = 0.448), indicating that higher spending alone did not guarantee better campaign performance.
+- Campaign segmentation revealed performance differences across campaign groups.
+- Competitor comparison provided additional context for evaluating campaign effectiveness.
+- Q4 revenue projections were developed using Q3 historical trends and clearly documented assumptions.
 
 ---
 
+### Microsoft Excel Dashboard
+
+![Excel Dashboard](Images/excel-dashboard.png)
+
+### Power BI Dashboard
+
+![Power BI Dashboard](Images/powerbi-dashboard.png)
+
+
+---
+
+## Business Recommendations
+Based on the analysis, the following recommendations were made:
+
+- Invest more resources in campaigns with consistently high ROI.
+- Standardize reporting processes to improve efficiency and reduce manual effort.
+- Consider campaign quality, audience targeting, and channel performance alongside advertising spend when making future marketing decisions.
+- Monitor key performance indicators regularly to support data-driven decision-making.
+
+
+```
 ## Repository Structure
 
+text
+📁 Data
+📁 Documentation
+📁 Excel Dashboard
+📁 Images
+📁 Power BI Dashboard
+📁 Presentation
+📁 Reports
 ```
-Data/
-Documentation/
-Excel Dashboard/
-Images/
-Presentation/
-Reports/
-```
-
----
-
-## Future Improvements
-
-- Add Power BI dashboard
-- Publish interactive Power BI report
-- Expand dashboard documentation
-- Include additional business case studies
-
----
 
 ## About Me
 
-I'm **Glory Ekpenyong**, a Data Analyst passionate about transforming operational data into actionable business insights that support informed decision-making and business growth.
+Hi, I'm **Glory Ekpenyong**, a Data Analyst passionate about transforming operational data into actionable business insights that support informed decision-making and business growth.
 
-I'm currently open to opportunities in:
+### Connect with Me
 
-- Data Analytics
-- Business Intelligence
-- Reporting Analytics
-- Research Analytics
-
-Let's connect!
-
-**LinkedIn:** *(Add your LinkedIn profile link here)*
-
-**GitHub:** https://github.com/Glory601
+- LinkedIn: *https://www.linkedin.com/in/glory-maurice-9309b43a2/*
+- GitHub: *https://github.com/Glory601/*
