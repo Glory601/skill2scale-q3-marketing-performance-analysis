@@ -1,16 +1,12 @@
 # 📄 Documentation
 
-This folder contains the supporting documents developed during the Q3 Marketing Performance Analysis project.
+This folder contains supporting documentation for the Q3 Marketing Performance Analysis project.
 
 ## Contents
 
 The documentation includes:
 
-- Data Dictionary
-- Folder Structure Standard Operating Procedure (SOP)
-- Project methodology notes
-- Business analysis documentation
-- Forecasting assumptions
-- Reporting and presentation materials
+- **Data Dictionary** — Defines the fields, data types, and descriptions used in the marketing campaign dataset.
+- **Folder Structure SOP** — Documents the project folder organisation and provides a consistent structure for managing project files.
 
-These documents provide additional context on the analytical process, data structure, project organisation, and the methods used to transform raw marketing data into actionable business insights.
+These documents provide additional context on the data structure and project organisation, supporting a clear and structured analytical workflow.
