@@ -233,7 +233,7 @@ Translated the analysis into:
 - Q4 revenue projections
 - Marketing optimisation opportunities
 
- **5. Portfolio Presentation**
+ ### 5. Portfolio Presentation
 
 Documented the complete project workflow, findings, dashboards, and recommendations in this GitHub repository.
 ---
