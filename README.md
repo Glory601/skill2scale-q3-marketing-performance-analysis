@@ -189,6 +189,8 @@ The forecast assumes that the average Q3 month-over-month revenue decline of **2
 
 This forecast provides a baseline scenario that can help management plan budgets, set expectations, and evaluate future campaign performance.
 
+---
+
 ## 🔄 Project Workflow
 
 ### 1. Data Cleaning & Preparation
