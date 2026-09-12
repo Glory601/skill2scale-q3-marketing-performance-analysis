@@ -62,56 +62,17 @@ This analysis was designed to answer the following business questions:
 - What strategic actions could improve future campaign performance?
 
 ---
+## 📊 Key Results
 
-
-## 🔄 Project Workflow
-
-### 1. Data Cleaning & Preparation
-
-- Cleaned and validated campaign data
-- Removed duplicates and handled missing values
-- Standardized inconsistent formats
-- Recalculated missing ROI values
-- Developed a Data Dictionary
-- Performed exploratory data analysis
-
-### 2. Dashboard Development
-
-Developed interactive dashboards in **Microsoft Excel and Power BI** to track:
-
-- Revenue
-- ROI
-- Leads and conversions
-- Campaign performance
-- Channel performance
-- Monthly trends
-
-### 3. Business Analysis
-
-Performed analysis covering:
-
-- Monthly revenue trends
-- Advertising spend vs. leads
-- Campaign performance
-- ROI analysis
-- Competitor comparison
-- Q4 revenue forecasting
-
-### 4. Business Reporting
-
-Translated the analysis into:
-
-- Executive insights
-- Business recommendations
-- Q4 revenue projections
-- Marketing optimisation opportunities
-
-### 5. Portfolio Presentation
-
-Documented the complete project workflow, findings, dashboards, and recommendations in this GitHub repository.
----
-
-## Tools & Skills
+| Metric | Result |
+|---|---:|
+| **Total Revenue** | **₦68.77M** |
+| **Total Ad Spend** | **₦11.50M** |
+| **Average ROI** | **400.10%** |
+| **Total Leads** | **8,003** |
+| **Total Conversions** | **1,835** |
+| **Highest Revenue Channel** | **Paid Ads** |
+| **Highest ROI Campaign** | **Referral Programme** |
 
 ## 🛠️ Tools & Skills
 
@@ -134,22 +95,6 @@ Documented the complete project workflow, findings, dashboards, and recommendati
 - Business Reporting
 - Data Storytelling
 - Strategic Recommendations
-
----
-
-## 📊 Key Results
-
-| Metric | Result |
-|---|---:|
-| **Total Revenue** | **₦68.77M** |
-| **Total Ad Spend** | **₦11.50M** |
-| **Average ROI** | **400.10%** |
-| **Total Leads** | **8,003** |
-| **Total Conversions** | **1,835** |
-| **Highest Revenue Channel** | **Paid Ads** |
-| **Highest ROI Campaign** | **Referral Programme** |
-## Project Workflow
-
 
 ## 📈 Dashboard Preview
 
@@ -200,7 +145,6 @@ Based on the Q3 trend analysis, Q4 revenue was projected to decline progressivel
 - **December:** ₦5.91M
 
 The forecast was based on the average Q3 month-over-month growth rate of **-28.66%**.
-
 ---
 
 ## 💡 Business Recommendations
@@ -244,6 +188,54 @@ Based on Q3 historical revenue trends, a Q4 revenue forecast was developed using
 The forecast assumes that the average Q3 month-over-month revenue decline of **28.66%** continues into Q4.
 
 This forecast provides a baseline scenario that can help management plan budgets, set expectations, and evaluate future campaign performance.
+
+## 🔄 Project Workflow
+
+### 1. Data Cleaning & Preparation
+
+- Cleaned and validated campaign data
+- Removed duplicates and handled missing values
+- Standardized inconsistent formats
+- Recalculated missing ROI values
+- Developed a Data Dictionary
+- Performed exploratory data analysis
+
+### 2. Dashboard Development
+
+Developed interactive dashboards in **Microsoft Excel and Power BI** to track:
+
+- Revenue
+- ROI
+- Leads and conversions
+- Campaign performance
+- Channel performance
+- Monthly trends
+
+### 3. Business Analysis
+
+Performed analysis covering:
+
+- Monthly revenue trends
+- Advertising spend vs. leads
+- Campaign performance
+- ROI analysis
+- Competitor comparison
+- Q4 revenue forecasting
+
+### 4. Business Reporting
+
+Translated the analysis into:
+
+- Executive insights
+- Business recommendations
+- Q4 revenue projections
+- Marketing optimisation opportunities
+
+### 5. Portfolio Presentation
+
+Documented the complete project workflow, findings, dashboards, and recommendations in this GitHub repository.
+---
+
 ## Repository Structure
 
 ## 📂 Repository Structure
