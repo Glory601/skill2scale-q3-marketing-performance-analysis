@@ -172,7 +172,7 @@ Key marketing KPIs should be monitored regularly to identify performance changes
 The reporting process could be automated using **Power BI scheduled refreshes**, reducing manual reporting effort and making campaign performance information easier to monitor.
 
 
-```
+
 ## 🔮 Q4 Revenue Forecast
 
 Based on Q3 historical revenue trends, a Q4 revenue forecast was developed using the average Q3 month-over-month growth rate of **-28.66%**.
